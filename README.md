@@ -35,8 +35,8 @@
   <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunlubana&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://profile.codersrank.io/user/arjunlubana#Tech%20Skills">
     <img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arjunlubana&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=%23151515">
   </a>
-</p>
+</p> -->
