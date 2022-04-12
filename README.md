@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋</h1>
-<h3 align="center"> I'm Arjun Lubana, A passionate Web developer from Kenya</h3>
+<h3 align="center"> I'm Arjun Lubana, A Web Developer </h3>
 
 - 🌱 I’m currently mastering my skills in **Javascript**
 
