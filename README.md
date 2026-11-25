@@ -1,6 +1,6 @@
-<h1 align="center">Hello World 👋</h1>
+<h1 align="center">Hi, I'm Arjun Lubana 👋</h1>
 
-<h3 align="center">I'm Arjun Lubana — A Passionate Web Developer</h3>
+<h3 align="center">Full-stack developer · I build systems that move goods, money and data</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjunlubana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,72 +8,84 @@
 
 ---
 
-### 🌱 Currently Mastering
-- **JavaScript** & **TypeScript** (Deep dive into modern ecosystem)
-
-### 👯 Looking to Collaborate On
-- **JavaScript / TypeScript** projects
-- Modern frontend applications (React, Next.js, Angular)
-- Open source tools & libraries
-
-### 💬 Ask Me About
-- **React**, **Next.js**, **Angular**
-- State Management, Performance Optimization, UI/UX Architecture
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/wallflower408" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/programmerscrunity" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/17074530" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/w4llfl0w3r13" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
-*(I can add more icons based on your current focus — just tell me!)*
-
----
-
-### 📊 GitHub Stats
+## 🧰 Skills I've Gained
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunlubana&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Arjun's Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunlubana&theme=dark&hide_border=true" alt="Arjun's Streak" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,tailwind,vite,postgres,prisma,supabase,redis,docker,sentry,storybook,figma,git&perline=9" alt="Skills" />
+</p>
+
+**Frontend**
+- React 19, React Router (v7+), TanStack Start / Router / Query / Table / Form, Next.js, Angular
+- Tailwind CSS, Radix and shadcn/ui, Storybook, design-system thinking (shared UI packages)
+- Maps and data viz: Mapbox GL, MapLibre, Recharts
+
+**Backend and data**
+- Node.js and TypeScript services, Nitro/H3, REST APIs
+- Medusa.js v2: custom modules, workflows and API routes for marketplace logic
+- PostgreSQL with Prisma, MikroORM and raw SQL migrations; Supabase; Redis; Meilisearch
+- Authentication and authorisation: Better Auth, SSO, shared authz rules across apps
+
+**Architecture and delivery**
+- Monorepos with Turborepo and pnpm workspaces, several apps sharing packages
+- Docker, Podman and Dokploy deployments; observability with OpenTelemetry and Sentry
+- Testing with Vitest, Jest and Playwright end to end
+- Domain-driven design, including a written ubiquitous language for logistics
+- Internationalisation (Paraglide) and AI integrations (TanStack AI across several model providers)
+
+**Mobile**
+- Expo and React Native: offline-aware driver apps, location, push notifications, background tasks
+
+**Enterprise integration**
+- SAP Business One implementation and Service Layer integration, bringing ERP data into modern web apps
+
+---
+
+## 🔥 What I'm Passionate About
+
+I'm drawn to **real-world operational problems**: the messy middle where orders, trucks, warehouses, payments and paperwork all have to agree with each other. My projects show it:
+
+### 🛒 Multi-vendor Marketplace Platform
+A monorepo marketplace with separate storefront, vendor, carrier and operator apps behind one sign-in service, plus a driver mobile app, payments and a CMS. I enjoy modelling the hard parts: one customer order split into independent vendor fulfilments, settlements, and delivery networks.
+
+### 🚛 Fleet and Freight Management
+A logistics platform covering fleet, forwarding, ocean carriers, rail, port operations, warehouse management, compliance and financial analytics, with live maps and dashboards. It comes from wanting freight operations to be visible and predictable.
+
+### 🔗 LogChain
+A TanStack Start app with Prisma, Better Auth, Sentry and multi-provider AI, exploring smarter logistics tooling.
+
+### 🏢 SAP Business One Web Portal
+A modern portal over SAP B1's Service Layer, covering sales, purchasing, inventory and setup. It brings ERP workflows to a fast, clean interface people actually enjoy using.
+
+### 🌱 Where it started
+Angular and Firebase apps, a blog and API, a trivia app and a portfolio site, all of which taught me the fundamentals.
+
+---
+
+## 🤝 Open To
+- Logistics, marketplace and ERP-adjacent products
+- TypeScript, React and Node projects, open source included
+- Conversations about architecture, monorepos and shipping real systems
+
+## 📫 Connect
+
+<p align="left">
+  <a href="https://twitter.com/wallflower408"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="40" /></a>
+  <a href="https://instagram.com/programmerscrunity"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/17074530"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/w4llfl0w3r13"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunlubana&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=arjunlubana&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunlubana&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
----
-
-### 💡 Favorite Quote
-
-> “I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.”  
-> — **Marissa Mayer**
+> “I always did something I was a little not ready to do. I think that's how you grow.” — **Marissa Mayer**
