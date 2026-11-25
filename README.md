@@ -47,12 +47,6 @@ I'm drawn to **real-world operational problems**: the messy middle where orders,
 ### 🛒 Multi-vendor Marketplace Platform
 A monorepo marketplace with separate storefront, vendor, carrier and operator apps behind one sign-in service, plus a driver mobile app, payments and a CMS. I enjoy modelling the hard parts: one customer order split into independent vendor fulfilments, settlements, and delivery networks.
 
-### 🚛 Fleet and Freight Management
-A logistics platform covering fleet, forwarding, ocean carriers, rail, port operations, warehouse management, compliance and financial analytics, with live maps and dashboards. It comes from wanting freight operations to be visible and predictable.
-
-### 🔗 LogChain
-A TanStack Start app with Prisma, Better Auth, Sentry and multi-provider AI, exploring smarter logistics tooling.
-
 ### 🏢 SAP Business One Web Portal
 A modern portal over SAP B1's Service Layer, covering sales, purchasing, inventory and setup. It brings ERP workflows to a fast, clean interface people actually enjoy using.
 
